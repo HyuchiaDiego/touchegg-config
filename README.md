@@ -24,6 +24,7 @@ The config file contains gestures for:
 ## Using the configuration file
 
 Once you have touchegg installed, installing this configuration is easy.
+
 1. Download the ``touchegg.conf`` file and save it under ``~/.config/touchegg/touchegg.conf`` (If the directory doesn't exist, create it.)
 2. Run the command ``$ touchegg`` and try the gestures.
 3. If you want it to run on startup simply add touchegg to your startup applications list.
